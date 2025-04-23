@@ -47,7 +47,7 @@ Com base na análise, recomenda-se a venda da Loja 4 para otimizar o capital do 
 
 ## Arquivos
 
-* `AluraStoreBr.ipynb`: Notebook Jupyter/Colab com o código da análise.
+* `Lorelaine.AluraStoreBr.ipynb`: Notebook Jupyter/Colab com o código da análise.
 * `README.md`: Este arquivo, que descreve o projeto.
 
 ## Contato
